@@ -1,0 +1,192 @@
+[   
+           {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "直播类-电视直播",
+        "packagename":"com.player.diyp2020",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dszb.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dszbj.apk"  
+    }
+    ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "直播类-電視直播",
+        "packagename":"com.player.yexu.vide",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dszb.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dszbf.apk"      
+    }
+    ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "直播类-电视家",
+        "packagename":"com.FengShao.tv",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dszb.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dsj.apk"      
+    }
+    ,
+         {
+         "order": 1,
+         "status": true,
+         "version": "",
+         "name": "直播类-派大星直播",
+         "packagename":"com.mygithub0.tvbox0.live",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/pdx.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/pdxzb1.apk"     
+     }
+     ,
+              {
+         "order": 1,
+         "status": true,
+         "version": "",
+         "name": "直播类-有线电视",
+         "packagename":"com.coocaa.iptv",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/yxds.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/yxds.apk"     
+     }
+     ,
+     {
+         "order": 1,
+         "status": true,
+         "version": "",
+         "name": "直播类-凤凰秀",
+         "packagename":"com.fengshows.tvlive",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/fhx.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/fhx.apk"     
+     }
+     ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "电视类-Pn播放器",
+        "packagename":"com.free.player",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/pnbfq.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/Pnbfq.apk"
+    }
+    ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "电视类-星火电视",
+        "packagename":"com.aesq.yh",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xhds.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xhds.apk"      
+    }
+    ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "电视类-畅享TV",
+        "packagename":"org.fungo.fungobox",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/cxtv.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/cxtv.apk"      
+    }
+    ,
+    {
+        "order": 1,
+        "status": true,
+        "version": "",
+        "name": "电视类-酷9",
+        "packagename":"com.player.ku9live",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/k9.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/k9.apk"
+    }
+    ,  
+        {
+        "order": 2,
+        "status": true,
+        "version": "",
+        "name": "影视类-柠檬7.0",
+        "packagename":"com.ningmeng.tv",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/nmtv.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/nm.apk"
+    }
+     , 
+    {
+        "order": 2,
+        "status": true,
+        "version": "",
+        "name": "影视类-七月影视",
+        "packagename":"com.qiyueys.com",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/qyys.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/qyys.apk"
+    }
+    , 
+    {
+        "order": 2,
+        "status": true,
+        "version": "",
+        "name": "影视类-七星短剧",
+        "packagename":"com.tw.qx.dj",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/qxdj.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/qxdj.apk"
+    }
+    , 
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-电视清理大师",
+        "packagename":"com.yanghua.cleantv2",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dsqlds.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/dsqlds.apk"
+    }
+    , 
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-垃圾清理",
+        "packagename":"com.tv.rclear",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/ljql.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/ljql.apk"
+    }
+    , 
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-下载中心",
+        "packagename":"com.download.mitv",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xzzx.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xzzx.apk"
+    }
+    , 
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-下载",
+        "packagename":"com.kgw360.kgw361",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xz.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xz.apk"
+    }
+    ,
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-系统桌面",
+        "packagename":"com.qsp.superlauncher",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xtzm.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/xtzm.apk"
+    }
+    ,
+    {
+        "order": 3,
+        "status": true,
+        "version": "",
+        "name": "工具类-便捷中心",
+        "packagename":"com.easy.cn",
+        "icon": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/bjzx.png",
+        "apk": "https://codeberg.org/steve_ruan/abc/raw/branch/main/bjzx/bjzx.apk"
+    }
+
+]
